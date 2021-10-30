@@ -1,0 +1,13 @@
+.card1{
+  background-color: hsl(31, 77%, 52%);
+  border-radius: 10px 0px 0px 10px;
+
+}
+.card2{
+  background-color: hsl(184, 100%, 22%);
+  height: 71vh;
+}
+.card3{
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0px 10px 10px 0px;
+}
